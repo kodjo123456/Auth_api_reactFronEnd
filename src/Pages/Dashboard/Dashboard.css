@@ -1,0 +1,12 @@
+.none{
+    width: 100%;
+    height: 4.5rem;
+    margin-top: 50px;
+}
+.name{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    padding:0 10%;
+}

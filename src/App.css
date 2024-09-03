@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container{
+    
+    display: flex;
+    justify-content: left;
+    align-items: center;
+} */
+
+h1{
+    text-align: left;
+}
+
+form{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h1{
+    font-size: 2rem;
+}
